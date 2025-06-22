@@ -9,6 +9,7 @@ I'm an economics student transitioning into the field of cybersecurity. I recent
 Although I'm at the beginning of my journey, I’m highly motivated to keep learning and build hands-on skills in this fast-evolving industry. I'm especially interested in cybersecurity fundamentals, threat analysis, and security operations.
 
 🔐 Always curious. Always growing.
+
 💻 Open to collaborations, internships, and learning opportunities in the cybersecurity space.
 
 
