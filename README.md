@@ -12,4 +12,8 @@ Although I'm at the beginning of my journey, I’m highly motivated to keep lear
 
 💻 Open to collaborations, internships, and learning opportunities in the cybersecurity space.
 
+## Skils
+|   Skill       |    Project   |
+|---------------|--------------|
+
 
